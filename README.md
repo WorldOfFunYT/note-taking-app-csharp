@@ -1,1 +1,1 @@
-# Note taking app (C#)
+# Todo app (C#)
